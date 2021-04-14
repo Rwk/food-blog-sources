@@ -1,0 +1,4 @@
+baseURL = "http://food.raphael-deschler.fr/"
+languageCode = "fr-fr"
+title = "Recettes de cuisine"
+theme = "ananke"
