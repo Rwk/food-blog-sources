@@ -1,4 +1,4 @@
-baseURL = "http://food.raphael-deschler.fr/"
+baseURL = "https://food.raphael-deschler.fr/"
 languageCode = "fr-fr"
 title = "Recettes de cuisine"
 theme = "dream"
