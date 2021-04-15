@@ -1,4 +1,24 @@
 baseURL = "http://food.raphael-deschler.fr/"
 languageCode = "fr-fr"
 title = "Recettes de cuisine"
-theme = "ananke"
+theme = "dream"
+defaultContentLanguage = "fr"
+
+[params]
+    background = "#fff"
+    backgroundImage = "/me/background-light.jpg"
+    linkColor = "seagreen"
+
+    # dark mode
+    backgroundDark = "black"
+    backgroundImageDark = "/me/background-dark.jpg"
+    darkLinkColor = "darkseagreen"
+    darkNav = true
+    dark404 = true
+
+    author = "Rwk"
+    description = "Recueil de recettes de cuisine"
+    avatar = "/me/profile-pic.png"
+    headerTitle = "Recueil de recettes de cuisine"
+    motto = "(Parce que manger, c'est bien ! Et des bonnes recettes, c'est chouette !)"
+    facebook = "RwkZeJedi"
