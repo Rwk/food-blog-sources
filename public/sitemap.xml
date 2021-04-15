@@ -3,26 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://food.raphael-deschler.fr/posts/my-first-post/</loc>
-    <lastmod>2021-04-13T23:21:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://food.raphael-deschler.fr/posts/</loc>
-    <lastmod>2021-04-13T23:21:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://food.raphael-deschler.fr/</loc>
-    <lastmod>2021-04-13T23:21:38+00:00</lastmod>
+    <loc>https://food.raphael-deschler.fr/categories/asiatique/</loc>
+    <lastmod>2021-04-16T00:39:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://food.raphael-deschler.fr/categories/</loc>
+    <lastmod>2021-04-16T00:39:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/posts/poulet-mijote-soja/</loc>
+    <lastmod>2021-04-16T00:39:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/posts/</loc>
+    <lastmod>2021-04-16T00:39:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/tags/poulet/</loc>
+    <lastmod>2021-04-16T00:39:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/</loc>
+    <lastmod>2021-04-16T00:39:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/tags/soja/</loc>
+    <lastmod>2021-04-16T00:39:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://food.raphael-deschler.fr/tags/</loc>
+    <lastmod>2021-04-16T00:39:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/categories/viande/</loc>
+    <lastmod>2021-04-16T00:39:08+02:00</lastmod>
   </url>
   
 </urlset>

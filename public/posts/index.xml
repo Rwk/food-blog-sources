@@ -6,20 +6,22 @@
     <description>Recent content in Posts on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 13 Apr 2021 23:21:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Apr 2021 00:39:08 +0200</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://food.raphael-deschler.fr/posts/my-first-post/</link>
-      <pubDate>Tue, 13 Apr 2021 23:21:38 +0000</pubDate>
+      <title>Nouilles chinoises au poulet mijoté à la sauce de soja</title>
+      <link>https://food.raphael-deschler.fr/posts/poulet-mijote-soja/</link>
+      <pubDate>Fri, 16 Apr 2021 00:39:08 +0200</pubDate>
       
-      <guid>https://food.raphael-deschler.fr/posts/my-first-post/</guid>
-      <description>Test
-Does it work ?
-Voilà j&amp;rsquo;ai pushé un truc</description>
+      <guid>https://food.raphael-deschler.fr/posts/poulet-mijote-soja/</guid>
+      <description>&lt;p&gt;Une recette de poulet poché à la sauce soja qui vient directement de la chaîne Youtube &lt;a href=&#34;https://www.youtube.com/watch?v=V32VDvL4m2k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+    Le Riz Jaune
+    &amp;nbsp;&lt;i class=&#34;fas fa-external-link-alt&#34;&gt;&lt;/i&gt;
+    
+    &lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
