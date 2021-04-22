@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recettes de cuisine</title>
-    <link>https://food.raphael-deschler.fr/</link>
-    <description>Recent content on Recettes de cuisine</description>
+    <title>dessert on Recettes de cuisine</title>
+    <link>https://food.raphael-deschler.fr/categories/dessert/</link>
+    <description>Recent content in dessert on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 23 Apr 2021 00:08:19 +0200</lastBuildDate>
     
-	<atom:link href="https://food.raphael-deschler.fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://food.raphael-deschler.fr/categories/dessert/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,19 +18,6 @@
       
       <guid>https://food.raphael-deschler.fr/posts/gaufres/</guid>
       <description>&lt;p&gt;Parce que le dimanche, pendant le brunch, c&amp;rsquo;est bien d&amp;rsquo;avoir des gaufres avec une recette pour 4 personnes que l&amp;rsquo;on mange à deux. Après, ça se mange n&amp;rsquo;importe quel jour. Personne n&amp;rsquo;est mort d&amp;rsquo;avoir mangé des gaufres un autre jour que dimanche. Enfin, si, surêment que si.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Nouilles chinoises au poulet mijoté à la sauce de soja</title>
-      <link>https://food.raphael-deschler.fr/posts/poulet-mijote-soja/</link>
-      <pubDate>Fri, 16 Apr 2021 00:39:08 +0200</pubDate>
-      
-      <guid>https://food.raphael-deschler.fr/posts/poulet-mijote-soja/</guid>
-      <description>&lt;p&gt;Une recette de poulet poché à la sauce soja qui vient directement de la chaîne Youtube &lt;a href=&#34;https://www.youtube.com/watch?v=V32VDvL4m2k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-    Le Riz Jaune
-    &amp;nbsp;&lt;i class=&#34;fas fa-external-link-alt&#34;&gt;&lt;/i&gt;
-    
-    &lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 16 Apr 2021 00:39:08 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Apr 2021 00:08:19 +0200</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>brunch</title>
+      <link>https://food.raphael-deschler.fr/categories/brunch/</link>
+      <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/categories/brunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dessert</title>
+      <link>https://food.raphael-deschler.fr/categories/dessert/</link>
+      <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/categories/dessert/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Asiatique</title>
