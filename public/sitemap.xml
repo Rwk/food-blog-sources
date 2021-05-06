@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://food.raphael-deschler.fr/categories/brunch/</loc>
-    <lastmod>2021-04-23T00:08:19+02:00</lastmod>
+    <loc>https://food.raphael-deschler.fr/categories/barbecue/</loc>
+    <lastmod>2021-05-06T21:22:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/tags/boeuf/</loc>
+    <lastmod>2021-05-06T21:22:52+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://food.raphael-deschler.fr/categories/</loc>
-    <lastmod>2021-04-23T00:08:19+02:00</lastmod>
+    <lastmod>2021-05-06T21:22:52+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://food.raphael-deschler.fr/tags/dessert/</loc>
+    <loc>https://food.raphael-deschler.fr/posts/cote-boeuf-barbecue/</loc>
+    <lastmod>2021-05-06T21:22:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/posts/</loc>
+    <lastmod>2021-05-06T21:22:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/</loc>
+    <lastmod>2021-05-06T21:22:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/tags/</loc>
+    <lastmod>2021-05-06T21:22:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/categories/viande/</loc>
+    <lastmod>2021-05-06T21:22:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/categories/brunch/</loc>
     <lastmod>2021-04-23T00:08:19+02:00</lastmod>
   </url>
   
@@ -28,17 +58,12 @@
   </url>
   
   <url>
-    <loc>https://food.raphael-deschler.fr/posts/</loc>
+    <loc>https://food.raphael-deschler.fr/tags/rapide/</loc>
     <lastmod>2021-04-23T00:08:19+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://food.raphael-deschler.fr/</loc>
-    <lastmod>2021-04-23T00:08:19+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://food.raphael-deschler.fr/tags/</loc>
+    <loc>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</loc>
     <lastmod>2021-04-23T00:08:19+02:00</lastmod>
   </url>
   
@@ -59,11 +84,6 @@
   
   <url>
     <loc>https://food.raphael-deschler.fr/tags/soja/</loc>
-    <lastmod>2021-04-16T00:39:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://food.raphael-deschler.fr/categories/viande/</loc>
     <lastmod>2021-04-16T00:39:08+02:00</lastmod>
   </url>
   

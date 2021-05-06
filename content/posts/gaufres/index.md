@@ -7,10 +7,11 @@ author: Rwk
 # authorlink: https://author.site
 cover: /posts/gaufres/waffle.jpg
 categories:
-  - dessert
-  - brunch
+  - Dessert
+  - Brunch
 tags:
-  - dessert
+  - Sucré
+  - Rapide
 ---
 
 Parce que le dimanche, pendant le brunch, c'est bien d'avoir des gaufres avec une recette pour 4 personnes que l'on mange à deux. Après, ça se mange n'importe quel jour. Personne n'est mort d'avoir mangé des gaufres un autre jour que dimanche. Enfin, si, surêment que si.

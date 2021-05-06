@@ -6,13 +6,31 @@
     <description>Recent content in Categories on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 23 Apr 2021 00:08:19 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 May 2021 21:22:52 +0200</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>brunch</title>
+      <title>Barbecue</title>
+      <link>https://food.raphael-deschler.fr/categories/barbecue/</link>
+      <pubDate>Thu, 06 May 2021 21:22:52 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/categories/barbecue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viande</title>
+      <link>https://food.raphael-deschler.fr/categories/viande/</link>
+      <pubDate>Thu, 06 May 2021 21:22:52 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/categories/viande/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brunch</title>
       <link>https://food.raphael-deschler.fr/categories/brunch/</link>
       <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
       
@@ -21,7 +39,7 @@
     </item>
     
     <item>
-      <title>dessert</title>
+      <title>Dessert</title>
       <link>https://food.raphael-deschler.fr/categories/dessert/</link>
       <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
       
@@ -35,15 +53,6 @@
       <pubDate>Fri, 16 Apr 2021 00:39:08 +0200</pubDate>
       
       <guid>https://food.raphael-deschler.fr/categories/asiatique/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Viande</title>
-      <link>https://food.raphael-deschler.fr/categories/viande/</link>
-      <pubDate>Fri, 16 Apr 2021 00:39:08 +0200</pubDate>
-      
-      <guid>https://food.raphael-deschler.fr/categories/viande/</guid>
       <description></description>
     </item>
     

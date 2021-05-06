@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Viande on Recettes de cuisine</title>
-    <link>https://food.raphael-deschler.fr/categories/viande/</link>
-    <description>Recent content in Viande on Recettes de cuisine</description>
+    <title>Barbecue on Recettes de cuisine</title>
+    <link>https://food.raphael-deschler.fr/categories/barbecue/</link>
+    <description>Recent content in Barbecue on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 06 May 2021 21:22:52 +0200</lastBuildDate>
     
-	<atom:link href="https://food.raphael-deschler.fr/categories/viande/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://food.raphael-deschler.fr/categories/barbecue/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,19 +21,6 @@
 &lt;p&gt;&lt;em&gt;Ron Swanson (Park &amp;amp; Recreation - saison 5, épisode 1)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Et Ron Swanson a foutrement raison. Recette inratable, surtout si vous possédez un thermomètre sonde. Bon, moi, j&amp;rsquo;en ai pas. Donc ça se joue au talent.&lt;/p&gt;
 &lt;p&gt;Attention, il faut s&amp;rsquo;y prendre 18h à l&amp;rsquo;avance.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Nouilles chinoises au poulet mijoté à la sauce de soja</title>
-      <link>https://food.raphael-deschler.fr/posts/poulet-mijote-soja/</link>
-      <pubDate>Fri, 16 Apr 2021 00:39:08 +0200</pubDate>
-      
-      <guid>https://food.raphael-deschler.fr/posts/poulet-mijote-soja/</guid>
-      <description>&lt;p&gt;Une recette de poulet poché à la sauce soja qui vient directement de la chaîne Youtube &lt;a href=&#34;https://www.youtube.com/watch?v=V32VDvL4m2k&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-    Le Riz Jaune
-    &amp;nbsp;&lt;i class=&#34;fas fa-external-link-alt&#34;&gt;&lt;/i&gt;
-    
-    &lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

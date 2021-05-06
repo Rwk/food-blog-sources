@@ -6,22 +6,40 @@
     <description>Recent content in Tags on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 23 Apr 2021 00:08:19 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 May 2021 21:22:52 +0200</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>dessert</title>
-      <link>https://food.raphael-deschler.fr/tags/dessert/</link>
-      <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
+      <title>Boeuf</title>
+      <link>https://food.raphael-deschler.fr/tags/boeuf/</link>
+      <pubDate>Thu, 06 May 2021 21:22:52 +0200</pubDate>
       
-      <guid>https://food.raphael-deschler.fr/tags/dessert/</guid>
+      <guid>https://food.raphael-deschler.fr/tags/boeuf/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>poulet</title>
+      <title>Rapide</title>
+      <link>https://food.raphael-deschler.fr/tags/rapide/</link>
+      <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/rapide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sucré</title>
+      <link>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</link>
+      <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poulet</title>
       <link>https://food.raphael-deschler.fr/tags/poulet/</link>
       <pubDate>Fri, 16 Apr 2021 00:39:08 +0200</pubDate>
       
@@ -30,7 +48,7 @@
     </item>
     
     <item>
-      <title>soja</title>
+      <title>Soja</title>
       <link>https://food.raphael-deschler.fr/tags/soja/</link>
       <pubDate>Fri, 16 Apr 2021 00:39:08 +0200</pubDate>
       

@@ -10,8 +10,8 @@ categories:
   - Viande
   - Asiatique
 tags:
-  - poulet
-  - soja
+  - Poulet
+  - Soja
 ---
 
 Une recette de poulet poché à la sauce soja qui vient directement de la chaîne Youtube [Le Riz Jaune](https://www.youtube.com/watch?v=V32VDvL4m2k)
