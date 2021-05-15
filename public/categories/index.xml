@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 06 May 2021 21:22:52 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 May 2021 21:29:04 +0200</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Asiatique</title>
+      <link>https://food.raphael-deschler.fr/categories/asiatique/</link>
+      <pubDate>Sat, 15 May 2021 21:29:04 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/categories/asiatique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viande</title>
+      <link>https://food.raphael-deschler.fr/categories/viande/</link>
+      <pubDate>Sat, 15 May 2021 21:29:04 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/categories/viande/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Barbecue</title>
@@ -17,15 +35,6 @@
       <pubDate>Thu, 06 May 2021 21:22:52 +0200</pubDate>
       
       <guid>https://food.raphael-deschler.fr/categories/barbecue/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Viande</title>
-      <link>https://food.raphael-deschler.fr/categories/viande/</link>
-      <pubDate>Thu, 06 May 2021 21:22:52 +0200</pubDate>
-      
-      <guid>https://food.raphael-deschler.fr/categories/viande/</guid>
       <description></description>
     </item>
     
@@ -44,15 +53,6 @@
       <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
       
       <guid>https://food.raphael-deschler.fr/categories/dessert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asiatique</title>
-      <link>https://food.raphael-deschler.fr/categories/asiatique/</link>
-      <pubDate>Fri, 16 Apr 2021 00:39:08 +0200</pubDate>
-      
-      <guid>https://food.raphael-deschler.fr/categories/asiatique/</guid>
       <description></description>
     </item>
     

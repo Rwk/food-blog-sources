@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 06 May 2021 21:22:52 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 May 2021 21:29:04 +0200</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Porc</title>
+      <link>https://food.raphael-deschler.fr/tags/porc/</link>
+      <pubDate>Sat, 15 May 2021 21:29:04 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/porc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sucré</title>
+      <link>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</link>
+      <pubDate>Sat, 15 May 2021 21:29:04 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Boeuf</title>
@@ -26,15 +44,6 @@
       <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
       
       <guid>https://food.raphael-deschler.fr/tags/rapide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sucré</title>
-      <link>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</link>
-      <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
-      
-      <guid>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</guid>
       <description></description>
     </item>
     
