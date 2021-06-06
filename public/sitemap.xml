@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://food.raphael-deschler.fr/categories/asiatique/</loc>
-    <lastmod>2021-05-15T21:29:04+02:00</lastmod>
+    <loc>https://food.raphael-deschler.fr/categories/barbecue/</loc>
+    <lastmod>2021-06-06T23:36:58+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://food.raphael-deschler.fr/categories/</loc>
+    <lastmod>2021-06-06T23:36:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/posts/cuissons-barbecue/</loc>
+    <lastmod>2021-06-06T23:36:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/posts/</loc>
+    <lastmod>2021-06-06T23:36:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/</loc>
+    <lastmod>2021-06-06T23:36:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/categories/viande/</loc>
+    <lastmod>2021-06-06T23:36:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/categories/asiatique/</loc>
     <lastmod>2021-05-15T21:29:04+02:00</lastmod>
   </url>
   
@@ -23,16 +48,6 @@
   </url>
   
   <url>
-    <loc>https://food.raphael-deschler.fr/posts/</loc>
-    <lastmod>2021-05-15T21:29:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://food.raphael-deschler.fr/</loc>
-    <lastmod>2021-05-15T21:29:04+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</loc>
     <lastmod>2021-05-15T21:29:04+02:00</lastmod>
   </url>
@@ -40,16 +55,6 @@
   <url>
     <loc>https://food.raphael-deschler.fr/tags/</loc>
     <lastmod>2021-05-15T21:29:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://food.raphael-deschler.fr/categories/viande/</loc>
-    <lastmod>2021-05-15T21:29:04+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://food.raphael-deschler.fr/categories/barbecue/</loc>
-    <lastmod>2021-05-06T21:22:52+02:00</lastmod>
   </url>
   
   <url>
