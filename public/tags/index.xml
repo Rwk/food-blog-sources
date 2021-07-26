@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 28 Jun 2021 21:56:49 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jul 2021 23:22:25 +0200</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Carotte</title>
+      <link>https://food.raphael-deschler.fr/tags/carotte/</link>
+      <pubDate>Mon, 26 Jul 2021 23:22:25 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/carotte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courgette</title>
+      <link>https://food.raphael-deschler.fr/tags/courgette/</link>
+      <pubDate>Mon, 26 Jul 2021 23:22:25 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/courgette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapide</title>
+      <link>https://food.raphael-deschler.fr/tags/rapide/</link>
+      <pubDate>Mon, 26 Jul 2021 23:22:25 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/rapide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semoule</title>
+      <link>https://food.raphael-deschler.fr/tags/semoule/</link>
+      <pubDate>Mon, 26 Jul 2021 23:22:25 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/semoule/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Porc</title>
@@ -35,15 +71,6 @@
       <pubDate>Thu, 06 May 2021 21:22:52 +0200</pubDate>
       
       <guid>https://food.raphael-deschler.fr/tags/boeuf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rapide</title>
-      <link>https://food.raphael-deschler.fr/tags/rapide/</link>
-      <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
-      
-      <guid>https://food.raphael-deschler.fr/tags/rapide/</guid>
       <description></description>
     </item>
     

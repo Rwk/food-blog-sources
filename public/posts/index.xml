@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 28 Jun 2021 21:56:49 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jul 2021 23:22:25 +0200</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flan aux courgettes et aux carottes</title>
+      <link>https://food.raphael-deschler.fr/posts/flan-carottes-courgettes/</link>
+      <pubDate>Mon, 26 Jul 2021 23:22:25 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/posts/flan-carottes-courgettes/</guid>
+      <description>&lt;p&gt;Petit flan avec les moyens du bord, à manger frais.
+Cette recette, piquée sur une boîte de semoule, utilise des produits simples.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Ribs de porc caramélisés</title>

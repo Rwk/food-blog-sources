@@ -3,12 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://food.raphael-deschler.fr/categories/barbecue/</loc>
-    <lastmod>2021-06-28T21:56:49+02:00</lastmod>
+    <loc>https://food.raphael-deschler.fr/tags/carotte/</loc>
+    <lastmod>2021-07-26T23:22:25+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://food.raphael-deschler.fr/categories/</loc>
+    <lastmod>2021-07-26T23:22:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/tags/courgette/</loc>
+    <lastmod>2021-07-26T23:22:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/posts/flan-carottes-courgettes/</loc>
+    <lastmod>2021-07-26T23:22:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/posts/</loc>
+    <lastmod>2021-07-26T23:22:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/tags/rapide/</loc>
+    <lastmod>2021-07-26T23:22:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/</loc>
+    <lastmod>2021-07-26T23:22:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/tags/semoule/</loc>
+    <lastmod>2021-07-26T23:22:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/tags/</loc>
+    <lastmod>2021-07-26T23:22:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/categories/v%C3%A9g%C3%A9tarien/</loc>
+    <lastmod>2021-07-26T23:22:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.raphael-deschler.fr/categories/barbecue/</loc>
     <lastmod>2021-06-28T21:56:49+02:00</lastmod>
   </url>
   
@@ -18,22 +63,7 @@
   </url>
   
   <url>
-    <loc>https://food.raphael-deschler.fr/posts/</loc>
-    <lastmod>2021-06-28T21:56:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://food.raphael-deschler.fr/</loc>
-    <lastmod>2021-06-28T21:56:49+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://food.raphael-deschler.fr/posts/ribs-porc-caramelises/</loc>
-    <lastmod>2021-06-28T21:56:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://food.raphael-deschler.fr/tags/</loc>
     <lastmod>2021-06-28T21:56:49+02:00</lastmod>
   </url>
   
@@ -84,11 +114,6 @@
   
   <url>
     <loc>https://food.raphael-deschler.fr/posts/gaufres/</loc>
-    <lastmod>2021-04-23T00:08:19+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://food.raphael-deschler.fr/tags/rapide/</loc>
     <lastmod>2021-04-23T00:08:19+02:00</lastmod>
   </url>
   
