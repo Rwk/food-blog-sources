@@ -7,9 +7,10 @@ author: Rwk
 # authorlink: https://author.site
 cover: /posts/cinnamon-rolls/cinnamon-roll-cover.jpg
 categories:
-  - Dessert
+  - Pâtisserie
 tags:
   - Sucré
+  - Cannelle
 ---
 
 Une collègue de boulot nous fait parfois des cinnamon rolls, c'est tellement bon.

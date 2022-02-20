@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 06 Nov 2021 15:56:49 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Feb 2022 19:13:24 +0100</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lentilles</title>
+      <link>https://food.raphael-deschler.fr/tags/lentilles/</link>
+      <pubDate>Sun, 20 Feb 2022 19:13:24 +0100</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/lentilles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Porc</title>
+      <link>https://food.raphael-deschler.fr/tags/porc/</link>
+      <pubDate>Sun, 20 Feb 2022 19:13:24 +0100</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/porc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cannelle</title>
+      <link>https://food.raphael-deschler.fr/tags/cannelle/</link>
+      <pubDate>Sat, 06 Nov 2021 15:56:49 +0100</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/cannelle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sucré</title>
@@ -17,24 +44,6 @@
       <pubDate>Sat, 06 Nov 2021 15:56:49 +0100</pubDate>
       
       <guid>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rapide</title>
-      <link>https://food.raphael-deschler.fr/tags/rapide/</link>
-      <pubDate>Sun, 26 Sep 2021 23:49:49 +0200</pubDate>
-      
-      <guid>https://food.raphael-deschler.fr/tags/rapide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tarte</title>
-      <link>https://food.raphael-deschler.fr/tags/tarte/</link>
-      <pubDate>Sun, 26 Sep 2021 23:49:49 +0200</pubDate>
-      
-      <guid>https://food.raphael-deschler.fr/tags/tarte/</guid>
       <description></description>
     </item>
     
@@ -57,20 +66,20 @@
     </item>
     
     <item>
+      <title>Rapide</title>
+      <link>https://food.raphael-deschler.fr/tags/rapide/</link>
+      <pubDate>Mon, 26 Jul 2021 23:22:25 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/rapide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Semoule</title>
       <link>https://food.raphael-deschler.fr/tags/semoule/</link>
       <pubDate>Mon, 26 Jul 2021 23:22:25 +0200</pubDate>
       
       <guid>https://food.raphael-deschler.fr/tags/semoule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Porc</title>
-      <link>https://food.raphael-deschler.fr/tags/porc/</link>
-      <pubDate>Mon, 28 Jun 2021 21:56:49 +0200</pubDate>
-      
-      <guid>https://food.raphael-deschler.fr/tags/porc/</guid>
       <description></description>
     </item>
     

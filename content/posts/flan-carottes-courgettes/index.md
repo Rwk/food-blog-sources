@@ -7,7 +7,8 @@ author: Rwk
 # authorlink: https://author.site
 cover: /posts/flan-carottes-courgettes/flan-carotte-courgette.jpg
 categories:
-  - Végétarien
+  - Entrée
+  - Flan
 tags:
   - Rapide
   - Courgette

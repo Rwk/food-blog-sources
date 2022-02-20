@@ -6,17 +6,26 @@
     <description>Recent content in Categories on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 06 Nov 2021 15:56:49 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Feb 2022 19:13:24 +0100</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Dessert</title>
-      <link>https://food.raphael-deschler.fr/categories/dessert/</link>
+      <title>Plat mijoté</title>
+      <link>https://food.raphael-deschler.fr/categories/plat-mijot%C3%A9/</link>
+      <pubDate>Sun, 20 Feb 2022 19:13:24 +0100</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/categories/plat-mijot%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pâtisserie</title>
+      <link>https://food.raphael-deschler.fr/categories/p%C3%A2tisserie/</link>
       <pubDate>Sat, 06 Nov 2021 15:56:49 +0100</pubDate>
       
-      <guid>https://food.raphael-deschler.fr/categories/dessert/</guid>
+      <guid>https://food.raphael-deschler.fr/categories/p%C3%A2tisserie/</guid>
       <description></description>
     </item>
     
@@ -30,11 +39,20 @@
     </item>
     
     <item>
-      <title>Végétarien</title>
-      <link>https://food.raphael-deschler.fr/categories/v%C3%A9g%C3%A9tarien/</link>
+      <title>Tarte</title>
+      <link>https://food.raphael-deschler.fr/categories/tarte/</link>
+      <pubDate>Sun, 26 Sep 2021 23:49:49 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/categories/tarte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flan</title>
+      <link>https://food.raphael-deschler.fr/categories/flan/</link>
       <pubDate>Mon, 26 Jul 2021 23:22:25 +0200</pubDate>
       
-      <guid>https://food.raphael-deschler.fr/categories/v%C3%A9g%C3%A9tarien/</guid>
+      <guid>https://food.raphael-deschler.fr/categories/flan/</guid>
       <description></description>
     </item>
     
@@ -71,6 +89,15 @@
       <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
       
       <guid>https://food.raphael-deschler.fr/categories/brunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dessert</title>
+      <link>https://food.raphael-deschler.fr/categories/dessert/</link>
+      <pubDate>Fri, 23 Apr 2021 00:08:19 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/categories/dessert/</guid>
       <description></description>
     </item>
     

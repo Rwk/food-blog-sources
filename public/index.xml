@@ -6,10 +6,19 @@
     <description>Recent content on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 06 Nov 2021 15:56:49 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Feb 2022 19:13:24 +0100</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Le petit salé aux lentilles</title>
+      <link>https://food.raphael-deschler.fr/posts/petit-sale-lentilles/</link>
+      <pubDate>Sun, 20 Feb 2022 19:13:24 +0100</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/posts/petit-sale-lentilles/</guid>
+      <description>&lt;p&gt;Probablement un de mes plats préféré, surtout l&amp;rsquo;hiver. Hyper réconfortant et généreux, c&amp;rsquo;est un plat qui tient au corps.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Les cinnamon rolls</title>

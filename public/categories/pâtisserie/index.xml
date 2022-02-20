@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pâtisserie on Recettes de cuisine</title>
+    <link>https://food.raphael-deschler.fr/categories/p%C3%A2tisserie/</link>
+    <description>Recent content in Pâtisserie on Recettes de cuisine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 06 Nov 2021 15:56:49 +0100</lastBuildDate>
+    
+	<atom:link href="https://food.raphael-deschler.fr/categories/p%C3%A2tisserie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Les cinnamon rolls</title>
+      <link>https://food.raphael-deschler.fr/posts/cinnamon-rolls/</link>
+      <pubDate>Sat, 06 Nov 2021 15:56:49 +0100</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/posts/cinnamon-rolls/</guid>
+      <description>&lt;p&gt;Une collègue de boulot nous fait parfois des cinnamon rolls, c&amp;rsquo;est tellement bon.
+Du coup, j&amp;rsquo;me suis dit que si j&amp;rsquo;voulais en manger un peu plus souvent, fallait que je m&amp;rsquo;y essaye moi-même.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
