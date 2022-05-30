@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 20 Feb 2022 19:13:24 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2022 23:07:41 +0200</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pâtisserie</title>
+      <link>https://food.raphael-deschler.fr/categories/p%C3%A2tisserie/</link>
+      <pubDate>Mon, 30 May 2022 23:07:41 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/categories/p%C3%A2tisserie/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Plat mijoté</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 20 Feb 2022 19:13:24 +0100</pubDate>
       
       <guid>https://food.raphael-deschler.fr/categories/plat-mijot%C3%A9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pâtisserie</title>
-      <link>https://food.raphael-deschler.fr/categories/p%C3%A2tisserie/</link>
-      <pubDate>Sat, 06 Nov 2021 15:56:49 +0100</pubDate>
-      
-      <guid>https://food.raphael-deschler.fr/categories/p%C3%A2tisserie/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in Pâtisserie on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 06 Nov 2021 15:56:49 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2022 23:07:41 +0200</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/categories/p%C3%A2tisserie/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Le brownie</title>
+      <link>https://food.raphael-deschler.fr/posts/brownie/</link>
+      <pubDate>Mon, 30 May 2022 23:07:41 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/posts/brownie/</guid>
+      <description>&lt;p&gt;Un petit dessert assez simple à faire. Pratique à emmener chez les amis ou pour le petit déj&amp;rsquo;. C&amp;rsquo;est hyper rapide à faire.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Les cinnamon rolls</title>

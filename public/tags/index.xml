@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Recettes de cuisine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 20 Feb 2022 19:13:24 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2022 23:07:41 +0200</lastBuildDate>
     
 	<atom:link href="https://food.raphael-deschler.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chocolat</title>
+      <link>https://food.raphael-deschler.fr/tags/chocolat/</link>
+      <pubDate>Mon, 30 May 2022 23:07:41 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/chocolat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sucré</title>
+      <link>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</link>
+      <pubDate>Mon, 30 May 2022 23:07:41 +0200</pubDate>
+      
+      <guid>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lentilles</title>
@@ -35,15 +53,6 @@
       <pubDate>Sat, 06 Nov 2021 15:56:49 +0100</pubDate>
       
       <guid>https://food.raphael-deschler.fr/tags/cannelle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sucré</title>
-      <link>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</link>
-      <pubDate>Sat, 06 Nov 2021 15:56:49 +0100</pubDate>
-      
-      <guid>https://food.raphael-deschler.fr/tags/sucr%C3%A9/</guid>
       <description></description>
     </item>
     
