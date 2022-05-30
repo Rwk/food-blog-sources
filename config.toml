@@ -3,6 +3,7 @@ languageCode = "fr-fr"
 title = "Recettes de cuisine"
 theme = "dream"
 defaultContentLanguage = "fr"
+paginate = 20
 
 [params]
     background = "#fff"
